@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julianh287. Full Stack Dev based in Bs As, Arg.
-- 👀 I’m interested in learning as much as I can! 
+- 👀 I’m interested in learning as much as I can, developping my own projects and making collaborations with other devs!
 - 📫 How to reach me: julian_her_287@hotmail.com || https://www.linkedin.com/in/juli%C3%A1nhern%C3%A1ndez-280790/
 
 <!---
