@@ -3,7 +3,7 @@
 - 📫 How to reach me: julian_her_287@hotmail.com || https://www.linkedin.com/in/julianhernandez-dev/
 
 Who am I?
-🙋‍♂️ I am a Full Stack developer. I am a curious and observant person. I like the idea of learning new stuff and explore new areas and technologies. This is why entering in the IT world it's been thrilling.
+🙋‍♂️ I am a curious and observant person. I like the idea of learning new stuff and explore new areas and technologies. This is why entering in the IT world it's been thrilling.
 
 Why me?
 👨‍🔬 Endowed with a solid logical-thinking base and a resourceful creativity, I find it exciting to face challenges. I have very good communication skills, and I enjoy team work. I find it easy to explain concepts and I enjoy sharing my knowledge with my teammates.
